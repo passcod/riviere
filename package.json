@@ -1,0 +1,19 @@
+{
+  "name": "riviere",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/passcod/riviere.git"
+  },
+  "keywords": [
+    "streams"
+  ],
+  "author": "Félix Saparelli <me@passcod.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/passcod/riviere/issues"
+  },
+  "homepage": "https://github.com/passcod/riviere#readme"
+}
